@@ -32,7 +32,6 @@ links.forEach(function (link) {
 const typingWords = [
     "Aspiring Java Developer",
     "Java Full Stack Developer",
-    "Spring Boot Developer",
     "Backend Development"
 ];
 
